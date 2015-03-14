@@ -1,0 +1,136 @@
+{
+    "basics": {
+        "name": "Arun Kumar T K",
+        "label": "JavaScript developer",
+        "picture": "https://avatars0.githubusercontent.com/u/6007432?v=3&u=52af0cc86f289cc27fdb170b1e950e1176243cbf&s=140",
+        "email": "aruntknambiar@gmail.com",
+        "phone": "8375860755",
+        "website": "http://tkay.io",
+        "summary": "Arun hails from Kannur,Kerala. blah blah",
+        "location": {
+            "address": "Krishnalayam , Chithappile Poyil PO,Taliparamba",
+            "postalCode": "670502",
+            "city": "Kannur",
+            "countryCode": "IN",
+            "region": "Kerala"
+        },
+        "profiles": [{
+            "network": "facebook",
+            "username": "ajlambesis",
+            "url": "https://www.facebook.com/AJLambesis"
+        }, {
+            "network": "SoundCloud",
+            "username": "arunkumartk",
+            "url": "https://soundcloud.com/arunkumartk"
+        }, {
+            "network": "Blogger",
+            "username": "serjicalkafka",
+            "url": "http://serjicalkafka.blogspot.in"
+        }, {
+            "network": "Github",
+            "username": "arunhedcet",
+            "url": "https://github.com/arunhedcet"
+        }]
+    },
+    "work": [{
+        "company": "Hedcet",
+        "position": "co-founder",
+        "website": "http://hedcet.com",
+        "startDate": "2013-07-01",
+        "endDate": "Present",
+        "summary": "Hedcet is a web startup which is developing Patent Development and Monetisation products for global invention and technology companies. Hedcet develops IP products which provide automation and intuitive Web 2.0 experience; assisting various stages of patent prosecution and litigation.",
+        "highlights": [
+            "Worked as the product wing of clairvolex.inc , and IP "
+        ]
+    }, {
+        "company": "tinymail",
+        "position": "co-founder",
+        "website": "http://hedcet.com",
+        "startDate": "2012-01-01",
+        "endDate": "2013-01-01",
+        "summary": "",
+        "highlights": [
+            ""
+        ]
+    }],
+    "education": [{
+        "institution": "University of Oklahoma",
+        "area": "Information Technology",
+        "studyType": "Bachelor",
+        "startDate": "2011-06-01",
+        "endDate": "2014-01-01",
+        "gpa": "4.0",
+        "courses": [
+            "DB1101 - Basic SQL",
+            "CS2011 - Java Introduction"
+        ]
+    }],
+    "skills": [{
+        "name": "Programming Languages",
+        "level": "Master",
+        "keywords": [
+            "JavaScript",
+            "php"
+        ]
+    }, {
+        "name": "Libraries & Frameworks",
+        "level": "Master",
+        "keywords": [
+            "jQuery",
+            "Nodejs",
+            "Meteor js",
+            "Backbone",
+            "coffeescript",
+            "handlebars",
+            "underscore js",
+            "underscore string",
+            "moment js",
+            "cheerio",
+            "npm",
+            "bower",
+            "gulp",
+            "grunt",
+            "polymer",
+            "web components",
+            "rangy",
+            "bootstrap",
+            "node webkit",
+            "xulrunner",
+            "cordova",
+            "d3 js",
+            "HighCharts",
+            "Google charts",
+            "handsontable",
+            "datatable",
+            "fancytree",
+            "webix",
+            "dexie js",
+            "disk db",
+            "less",
+            "normalize.css",
+            "animate.css",
+            "phantom js",
+            "casper js",
+            "codeigniter",
+            "phpuery"
+        ]
+    }],
+    "languages": [{
+        "language": "English",
+        "fluency": ""
+    }, {
+        "language": "Malayalam",
+        "fluency": "Native Fluency"
+    }, {
+        "language": "Hindi",
+        "fluency": "Native Fluency"
+    }],
+    "interests": [{
+        "name": "Entertainment",
+        "keywords": [
+            "Movies",
+            "Music"
+        ]
+    }]
+
+}

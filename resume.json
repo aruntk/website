@@ -121,6 +121,12 @@
             "AWS (EC2,Route53)", "Godaddy", "Modulus", "MongoHQ", "Owncloud"
         ]
     }, {
+        "name": "Programming Editors/IDEs",
+        "level": "Master",
+        "keywords": [
+            "vim", "Sublime Text", "Bluefish", "Eclipse", "Netbeans"
+        ]
+    }, {
         "name": "Version Control",
         "level": "Master",
         "keywords": ["Git", "Subversion"]

@@ -6,8 +6,7 @@
         "email": "aruntknambiar@gmail.com",
         "phone": "8375860755",
         "website": "http://tkay.io",
-        "summary": "Arun hails from Kannur,Kerala. blah blah",
-        "location": {
+        "summary": "JavaScript developer with 2 years of experience. Co-founded a technology startup in the intellectual property domain.","location": {
             "address": "Krishnalayam , Chithappile Poyil PO,Taliparamba",
             "postalCode": "670502",
             "city": "Kannur",
@@ -40,30 +39,16 @@
         "endDate": "Present",
         "summary": "Hedcet is a web startup which is developing Patent Development and Monetisation products for global invention and technology companies. Hedcet develops IP products which provide automation and intuitive Web 2.0 experience; assisting various stages of patent prosecution and litigation.",
         "highlights": [
-            "Worked as the product wing of clairvolex.inc , and IP "
-        ]
-    }, {
-        "company": "tinymail",
-        "position": "co-founder",
-        "website": "http://hedcet.com",
-        "startDate": "2012-01-01",
-        "endDate": "2013-01-01",
-        "summary": "",
-        "highlights": [
-            ""
+            "Worked as a technical consultant for clairvolex.inc"
         ]
     }],
     "education": [{
-        "institution": "University of Oklahoma",
-        "area": "Information Technology",
+        "institution": "College Of Engineering Trivandrum",
+        "area": "Electronics and Communication",
         "studyType": "Bachelor",
-        "startDate": "2011-06-01",
-        "endDate": "2014-01-01",
-        "gpa": "4.0",
-        "courses": [
-            "DB1101 - Basic SQL",
-            "CS2011 - Java Introduction"
-        ]
+        "startDate": "2009-06-01",
+        "endDate": "2013-06-01",
+        "gpa": "-"
     }],
     "skills": [{
         "name": "Programming Languages",
@@ -72,7 +57,9 @@
             "JavaScript",
             "php"
         ]
-    }, {
+    }, {"name":"Markup & Formats","level":"Master","keywords":[
+	"HTML5","CSS3","XML","Open XML","JSON"]
+},{
         "name": "Libraries & Frameworks",
         "level": "Master",
         "keywords": [
@@ -80,14 +67,11 @@
             "Nodejs",
             "Meteor js",
             "Backbone",
-            "coffeescript",
+            "CoffeeScript",
             "handlebars",
             "underscore js",
-            "underscore string",
             "moment js",
             "cheerio",
-            "npm",
-            "bower",
             "gulp",
             "grunt",
             "polymer",
@@ -110,11 +94,15 @@
             "normalize.css",
             "animate.css",
             "phantom js",
-            "casper js",
             "codeigniter",
             "phpuery"
         ]
-    }],
+    },{"name":"Database Systems",
+"level":"Master",
+"keywords":["mongodb",
+"mysql",
+"indexeddb","diskdb"]},{"name":"Version Control","level":"Master",
+"keywords":["Git","Subversion"]}],
     "languages": [{
         "language": "English",
         "fluency": ""
@@ -129,7 +117,8 @@
         "name": "Entertainment",
         "keywords": [
             "Movies",
-            "Music"
+            "Music",
+	    "Video Games"
         ]
     }]
 

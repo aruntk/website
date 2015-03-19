@@ -6,7 +6,7 @@
         "email": "aruntknambiar@gmail.com",
         "phone": "8375860755",
         "website": "http://tkay.io",
-        "summary": "JavaScript developer with 2 years of experience. Co-founded a technology startup in the intellectual property domain.",
+        "summary": "I'm a JavaScript developer with 2+ years of experience in development as well as tech operations. I've co-founded a web startup called 'Hedcet' during my college days,which went on to make some cool products in the intellectual property domain. ",
         "location": {
             "address": "Krishnalayam , Chithappile Poyil PO,Taliparamba",
             "postalCode": "670502",
@@ -23,7 +23,7 @@
             "username": "arunkumartk",
             "url": "https://soundcloud.com/arunkumartk"
         }, {
-            "network": "Blogger",
+            "network": "Blog",
             "username": "serjicalkafka",
             "url": "http://serjicalkafka.blogspot.in"
         }, {
@@ -33,11 +33,11 @@
         }]
     },
     "work": [{
-        "company": "Hedcet",
-        "position": "co-founder",
+        "company": "HEDCET TECHNOLOGIES PRIVATE LIMITED",
+        "position": "Co-founder & Developer",
         "website": "http://hedcet.com",
         "startDate": "2013-07-01",
-        "endDate": "Present",
+        "endDate": "",
         "summary": "Hedcet is a web startup which is developing Patent Development and Monetisation products for global invention and technology companies. Hedcet develops IP products which provide automation and intuitive Web 2.0 experience; assisting various stages of patent prosecution and litigation.",
         "highlights": [
             "Worked as a technical consultant for clairvolex.inc", "Developed a mailing app called tinymail"

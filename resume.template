@@ -138,6 +138,19 @@
                     {{/location}}
                   </div>
                 {{/if}}
+                {{#if dob}}
+                  <div class="detail">
+                    <span class="icon">
+                      <i class="fa fa-lg fa-birthday-cake"></i>
+                    </span>
+
+                    {{#dob}}
+                      <span class="info">
+                        Age : {{age}},DOB :  {{date}}
+                      </span>
+                    {{/dob}}
+                  </div>
+                {{/if}}
 
                 {{#if phone}}
                   <div class="detail">
@@ -255,6 +268,9 @@
                 {{/if}}
                 {{#if angellist_url}}
                   <a class="fa fa-angellist fa-2x social-link link-angellist" href="{{angellist_url}}" target="_blank"></a>
+                {{/if}}
+                 {{#if blog}}
+                  <a class="fa fa-angellist fa-2x social-link link-angellist" href="{{angellist_url}}" target="_blank">Blog</a>
                 {{/if}}
               </div>
             {{/resume.basics}}

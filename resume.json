@@ -6,13 +6,17 @@
         "email": "aruntknambiar@gmail.com",
         "phone": "8375860755",
         "website": "http://tkay.io",
-        "summary": "I'm a JavaScript developer with 2+ years of experience in development as well as tech operations. I've co-founded a web startup called 'Hedcet' during my college days,which went on to make some cool products in the intellectual property domain. ",
+        "summary": "I'm a passionate JavaScript developer with 2+ years of experience in development as well as tech operations. \n\r I've co-founded a web startup called 'Hedcet' during my college days,which went on to make some cool products in the intellectual property domain. \n\r I completed my graduation in Electronics and Communication Engineering from the esteemed College of Engineering , Trivandrum .",
         "location": {
             "address": "Krishnalayam , Chithappile Poyil PO,Taliparamba",
             "postalCode": "670502",
             "city": "Kannur",
             "countryCode": "IN",
             "region": "Kerala"
+        },
+        "dob": {
+            "age": "22",
+            "date": "03-May-1992"
         },
         "profiles": [{
             "network": "facebook",
@@ -30,17 +34,21 @@
             "network": "Github",
             "username": "arunhedcet",
             "url": "https://github.com/arunhedcet"
+        }, {
+            "network": "linkedin",
+            "username": "arunhedcet",
+            "url": "https://github.com/arunhedcet"
         }]
     },
     "work": [{
         "company": "HEDCET TECHNOLOGIES PRIVATE LIMITED",
         "position": "Co-founder & Developer",
         "website": "http://hedcet.com",
-        "startDate": "2013-07-01",
+        "startDate": "2011-01-01",
         "endDate": "",
-        "summary": "I've co-founded HedCet with 3 of my friends in 2011 while I was in college. In 2013 We signed a partnership agreement with clairvolex.inc , an IP solutions company. Hedcet have develped many IP products which provide automation and intuitive Web 2.0 experience; assisting various stages of patent prosecution and litigation.",
+        "summary": "I've co-founded Hedcet technologies pvt ltd in 2011 during my graduation days. In 2013 We signed a partnership agreement with clairvolex.inc , an IP solutions company. Hedcet have develped many IP products which provide automation and intuitive Web 2.0 experience; assisting various stages of patent prosecution and litigation. My area of work at Hedcet are leading the front end development and R&D, Creating technological vision and UI & UX designing. ",
         "highlights": [
-            "Developed products like IP-Dashboard , PRG(Proofreading Report Generator), SC(status checker), PATCAL (patent term calculator),Patent Data Accumulater (PDA) and many business automation tools", "Developed a mailing app called tinymail"
+            "Incubated in Start Up Village,Kochi", "Developed web applications for patent lawers and paralegals such as IP-Dashboard , PRG(Proofreading Report Generator), SC(status checker), PATCAL (patent term calculator), Patent Data Accumulater (PDA) and many business automation tools", "Developed an enterprise android mail client called tinymail"
         ]
     }],
     "education": [{
@@ -52,9 +60,22 @@
         "gpa": "-"
     }],
     "openSource": [{
+        "name": "Tinymail",
+        "urls": {
+            "play": "https://play.google.com/store/apps/details?id=com.vcompile.android&hl=en",
+            "news": [{
+                "name": "The Hindu",
+                "url": "http://www.thehindubusinessline.com/industry-and-economy/info-tech/will-tinymail-on-phone-make-mail-ids-redundant/article4646525.ece?homepage=true"
+            }, {
+                "name": "YourStory",
+                "url": "http://yourstory.com/2013/03/hedcet-a-student-startup-with-a-very-grown-up-offering/"
+            }]
+        },
+        "summary": "TinyMail ,is an android app which was a mail client for enterprises . It simplified mailing in the sense that it linked mail with mobile numbers . I worked on the UI part of the android application."
+    }, {
         "name": "Torrenter",
         "urls": {
-            "main": "torrenter.meteor.com",
+            "main": "http://torrenter.meteor.com",
             "github": "http://github.com/sujith3g/torwatch"
         },
         "summary": "Torrenter is a torrent alert & todo list app. Torrenter alerts the users if a new torrent file is added in his/her desired catagory/subscribed keyword."
@@ -103,7 +124,7 @@
         "name": "Web Libraries & Frameworks",
         "level": "Master",
         "keywords": [
-            "Nodejs",
+            "Node js",
             "Meteor js",
             "Express",
             "Codeigniter",
@@ -128,8 +149,6 @@
             "Polymer",
             "Handlebars",
             "Backbone",
-            "Web components",
-            "Rangy",
             "Bootstrap",
             "D3 js",
             "HighCharts",
@@ -139,6 +158,8 @@
             "Datatable",
             "FancyTree",
             "JSTree",
+            "Web components",
+            "Rangy",
             "Dexie js",
             "Less"
         ]

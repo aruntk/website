@@ -146,7 +146,7 @@
 
                     {{#dob}}
                       <span class="info">
-                        Age : {{age}},DOB :  {{date}}
+                       {{date}} , {{age}} years
                       </span>
                     {{/dob}}
                   </div>
@@ -270,7 +270,7 @@
                   <a class="fa fa-angellist fa-2x social-link link-angellist" href="{{angellist_url}}" target="_blank"></a>
                 {{/if}}
                  {{#if blog}}
-                  <a class="fa fa-angellist fa-2x social-link link-angellist" href="{{angellist_url}}" target="_blank">Blog</a>
+                  <a class="" href="{{blog}}" target="_blank">Blog</a>
                 {{/if}}
               </div>
             {{/resume.basics}}
@@ -429,12 +429,12 @@
                                 {{/if}}
                               </small>
                             </p>
-                            <i>{{gpa}}</i>
+                           <!--  <i>{{gpa}}</i>
                             <div class="space-top labels">
                               {{#courses}}
                                 <span class="label label-keyword">{{.}}</span>
                               {{/courses}}
-                            </div>
+                            </div> -->
                           </div>
                         </li>
                       {{/each}}
@@ -579,11 +579,11 @@
                 <div class="detail" id="publications">
                   <div class="icon">
                     <i class="fa fa-lg fa-github-alt"></i>
-                    <span class="mobile-title">Open Source Projects</span>
+                    <span class="mobile-title">Open Source / Personal Projects</span>
                   </div>
                   <div class="info">
                     <h4 class="title text-uppercase">
-                      Open Source Projects
+                      Open Source / Personal Projects
                     </h4>
 
                     <div class="content">
@@ -594,7 +594,7 @@
                               <p class="clear-margin">
                                 <strong>
                                   {{#if urls.main}}
-                                    <a href="{{website}}"  target="_blank">{{name}}</a>
+                                    <a href="{{urls.main}}"  target="_blank">{{name}}</a>
                                   {{else}}
                                     {{name}}
                                   {{/if}}
@@ -602,9 +602,30 @@
                               </p>
                               
                               <p class="clear-margin">{{summary}}</p>
-                              <div class="icon">
-                    <i class="fa fa-lg fa-github"></i>
-                    </div>
+                           
+                     <div class="social-links">
+              {{#if urls.main}}
+                  <a class="fa fa-rss fa-2x social-link link-blog"
+                       href="{{urls.main}}" target="_blank"></a>
+                {{/if}}
+                {{#if urls.github}}
+                  <a class="fa fa-github fa-2x social-link link-github"
+                       href="{{urls.github}}" target="_blank"></a>
+                {{/if}}
+                 {{#if urls.play}}
+                  <a class="fa fa-android fa-2x social-link link-spotify"
+                       href="{{urls.play}}" target="_blank"></a>
+                {{/if}}
+                {{#if urls.news}}
+                {{#each urls.news}}
+
+                  <a class=""
+                       href="{{url}}" target="_blank">{{name}}</a>
+                       {{/each}}
+                {{/if}}
+
+                </div>
+                    
                             </div>
                           </li>
                         {{/each}}

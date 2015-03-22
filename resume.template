@@ -573,6 +573,47 @@
                 </div>
               {{/if}}
 
+
+
+              {{#if resume.openSource}}
+                <div class="detail" id="publications">
+                  <div class="icon">
+                    <i class="fa fa-lg fa-github-alt"></i>
+                    <span class="mobile-title">Open Source Projects</span>
+                  </div>
+                  <div class="info">
+                    <h4 class="title text-uppercase">
+                      Open Source Projects
+                    </h4>
+
+                    <div class="content">
+                      <ul class="list-unstyled">
+                        {{#each resume.openSource}}
+                          <li class="card card-nested">
+                            <div class="content">
+                              <p class="clear-margin">
+                                <strong>
+                                  {{#if urls.main}}
+                                    <a href="{{website}}"  target="_blank">{{name}}</a>
+                                  {{else}}
+                                    {{name}}
+                                  {{/if}}
+                                </strong>
+                              </p>
+                              
+                              <p class="clear-margin">{{summary}}</p>
+                              <div class="icon">
+                    <i class="fa fa-lg fa-github"></i>
+                    </div>
+                            </div>
+                          </li>
+                        {{/each}}
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              {{/if}}
+
               {{#if resume.interests}}
                 <div class="detail" id="interests">
                   <div class="icon">

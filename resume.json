@@ -38,7 +38,7 @@
         "website": "http://hedcet.com",
         "startDate": "2013-07-01",
         "endDate": "",
-        "summary": "I've co-founded HedCet with 3 of my friends during my college days. In 2013 We signed a partnership agreement with clairvolex.inc , an IP solutions company. Hedcet have develped many IP products which provide automation and intuitive Web 2.0 experience; assisting various stages of patent prosecution and litigation.",
+        "summary": "I've co-founded HedCet with 3 of my friends in 2011 while I was in college. In 2013 We signed a partnership agreement with clairvolex.inc , an IP solutions company. Hedcet have develped many IP products which provide automation and intuitive Web 2.0 experience; assisting various stages of patent prosecution and litigation.",
         "highlights": [
             "Developed products like IP-Dashboard , PRG(Proofreading Report Generator), SC(status checker), PATCAL (patent term calculator),Patent Data Accumulater (PDA) and many business automation tools", "Developed a mailing app called tinymail"
         ]
@@ -51,11 +51,34 @@
         "endDate": "2013-06-01",
         "gpa": "-"
     }],
-    "openSource":[{
-        "name":"Torrenter",
-        "urls":{"main":"torrenter.meteor.com","github":""},
-        "desc":"Torrenter is a torrent alert & todo list app. Torrenter alerts the users if a new torrent file is added in his/her desired catagory/subscribed keyword."
-        }],
+    "openSource": [{
+        "name": "Torrenter",
+        "urls": {
+            "main": "torrenter.meteor.com",
+            "github": "http://github.com/sujith3g/torwatch"
+        },
+        "summary": "Torrenter is a torrent alert & todo list app. Torrenter alerts the users if a new torrent file is added in his/her desired catagory/subscribed keyword."
+    }, {
+        "name": "a6sp9s",
+        "urls": {
+            "main": "https://atmospherejs.com/aruntk/a6sp9s",
+            "github": "https://github.com/arunhedcet/a6sp9s"
+        },
+        "summary": "An accounts and permissions package for meteor js"
+    }, {
+        "name": "nw-boilerplate",
+        "urls": {
+            "github": "https://github.com/arunhedcet/nw-boilerplate"
+        },
+        "summary": "Node webkit boilerplate using Gulp"
+    }, {
+        "name": "Polymer-ui",
+        "urls": {
+            "main": "https://atmospherejs.com/hedcet/polymer-ui",
+            "github": "https://github.com/HedCET/polymer-ui"
+        },
+        "summary": "Polymer UI for meteor front end"
+    }],
     "skills": [{
         "name": "Programming Languages",
         "level": "Master",

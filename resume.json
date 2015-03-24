@@ -6,10 +6,10 @@
         "email": "aruntknambiar@gmail.com",
         "phone": "8375860755",
         "website": "http://tkay.io",
-        "summary": ["I'm a passionate JavaScript developer with 2+ years of experience in development as well as tech operations. ",
-            "I've co-founded a web startup called 'Hedcet' during my college days,which went on to make some cool products in the intellectual property domain. ",
+        "summary": ["I'm a passionate JavaScript developer with 2+ years of experience in development and product management.",
+            "I've co-founded a web startup called 'HedCET' during my college days,which went on to make some cool products in the intellectual property domain. ",
             "I completed my graduation in Electronics and Communication Engineering from the esteemed College of Engineering, Trivandrum .",
-            "When I'm not working I like - Thinking about my own existence; Reading wikipedia articles; Recording songs and listening to them; Disassembling & Assembling gadgets; Rooting and Checking out new ROM releases for my Nexus devices; Watching Atletico Madrid matches, Lionel Messi's dribbling videos, Werner Herzog movies; Listening System of a down songs; Reading Works of Kafka, Camus, Dostoevsky Nietzsche etc.; or Adding new books to my calibre library."
+            "When I'm not coding I like Reading wikipedia articles; Recording songs; Disassembling & Assembling gadgets; Checking out new ROM releases and kernels for my Nexus devices; Watching Atletico Madrid matches; Listening System of a down songs; Reading Works of Kafka, Camus, Dostoevsky Nietzsche etc.; Adding new books to my calibre library; or Watching movies."
         ],
         "location": {
             "address": "Krishnalayam, Chithappile Poyil PO,Taliparamba",
@@ -36,11 +36,11 @@
             "url": "http://serjicalkafka.blogspot.in"
         }, {
             "network": "Github",
-            "username": "arunhedcet",
-            "url": "https://github.com/arunhedcet"
+            "username": "arunHedCET",
+            "url": "https://github.com/arunHedCET"
         }, {
             "network": "linkedin",
-            "username": "arunhedcet",
+            "username": "arunHedCET",
             "url": "http://in.linkedin.com/in/tkarun"
         }]
     },
@@ -52,20 +52,23 @@
         "endDate": "",
         "summary": "Leading software development for the IP products initiative Clay-IP. My key responsibilites include leading the the front end development for all products, Product management and setting technological visions. ",
         "highlights": [
-            "IP Dashboard : Designed and Developed UI & UX for the product. Technologies used  -  Framework : Meteor js, Front End LIbraries : Jquery, Polymer, Handsontable, FancyTree, nvD3 etc. DB - Mongo DB",
-            "Proofreading Report Generation (PRG) : PRG is a proofreading workbench for paralegals. I Envisioned, managed and led the development process. Framework : Meteor JS, DB : Mongo DB, libraries used : JQuery, JQuery UI, Bootstrap, Rangy, Textcomplete etc",
-            "IP-Analytics Tool : Next generation IP Analytics and Visualization tool. Developed using Meteor js, NW js, D3, MongoDB, Dexie JS Cheerio Highcharts, Polymer etc",
-            "Other Products : Patent Term Adjustment (PTA) Calculator, Patent Family Tree Generator, Patent Data Accumulator etc."
+            "IP Dashboard : Designed and Developed UI & UX for the product. Developed using Meteor JS, Mongo DB, Polymer, Handsontable, FancyTree, nvD3 etc.",
+            "Proofreading Report Generation (PRG) : PRG is a proofreading workbench for paralegals. I led the development process. Developed using Meteor JS, Mongo DB, JQuery UI, Bootstrap, Rangy etc",
+            "IP-Analytics Tool : Next generation IP Analytics and Visualization tool. Developed using Meteor JS, NW JS, D3, MongoDB, Dexie JS Cheerio Highcharts, Polymer etc",
+            "Patent Data Accumulators : This tool Scrapes data from patent websites such as USPTO Public Pair, Espacenet, WIPO, Indian PTO etc. Developed using Meteor JS, Phantom JS, Casper JS, Cheerio, MongoDB etc",
+            "Other Products : Patent Term Adjustment (PTA) Calculator, Patent Family Tree Generator etc."
         ]
     }, {
         "company": "HedCET technologies Private ltd.",
         "position": "Co-founder & Developer",
-        "website": "http://hedcet.com",
+        "website": "http://HedCET.com",
         "startDate": "2011-01-01",
         "endDate": "2013-08-01",
-        "summary": "I've co-founded Hedcet technologies pvt ltd in 2011 during my graduation days. In 2013 We signed a partnership agreement with clairvolex.inc, an IP solutions company. Hedcet have develped many IP products which provide automation and intuitive Web 2.0 experience; assisting various stages of patent prosecution and litigation. My area of work at Hedcet are leading the front end development and R&D, Creating technological vision and UI & UX designing. ",
+        "summary": "I've co-founded HedCET technologies pvt ltd in 2011 during my graduation days. In 2013 HedCET signed an agreement with clairvolex.inc and have since develped many IP products assisting various stages of patent prosecution and litigation.",
         "highlights": [
-            "Incubated in Start Up Village,Kochi", "Developed web applications for patent lawyers and paralegals such as IP-Dashboard, PRG(Proofreading Report Generator), SC(status checker), PATCAL (patent term calculator), Patent Data Accumulater (PDA) and many business automation tools", "Developed an enterprise android mail client called TinyMail"
+            "Incubated in Start Up Village,Kochi",
+            "Developed a mail client called TinyMail",
+            "Developed Beehive an ERP software for the schools and colleges."
         ]
     }],
     "education": [{
@@ -73,8 +76,7 @@
         "area": "Electronics and Communication",
         "studyType": "Bachelor",
         "startDate": "2009-06-01",
-        "endDate": "2013-06-01",
-        "gpa": "-"
+        "endDate": "2013-06-01"
     }],
     "openSource": [{
         "name": "TinyMail",
@@ -85,10 +87,10 @@
                 "url": "http://www.thehindubusinessline.com/industry-and-economy/info-tech/will-tinymail-on-phone-make-mail-ids-redundant/article4646525.ece?homepage=true"
             }, {
                 "name": "YourStory",
-                "url": "http://yourstory.com/2013/03/hedcet-a-student-startup-with-a-very-grown-up-offering/"
+                "url": "http://yourstory.com/2013/03/HedCET-a-student-startup-with-a-very-grown-up-offering/"
             }]
         },
-        "summary": "TinyMail, is an android app which was a mail client for enterprises . It simplified mailing in the sense that it linked mail with mobile numbers . I worked on the UI part of the android application."
+        "summary": "This is an android application which serves to replace your email id with your mobile number,using which you can mail your contacts. In essence you don't need to know a persons mail id to mail him,mobile number would suffice. Our application replaces the native contacts application by adding the effective functionality described above"
     }, {
         "name": "Torrenter",
         "urls": {
@@ -99,23 +101,23 @@
     }, {
         "name": "a6sp9s",
         "urls": {
-            "main": "https://atmospherejs.com/aruntk/a6sp9s",
-            "github": "https://github.com/arunhedcet/a6sp9s"
+            "main": "https://atmosphereJS.com/aruntk/a6sp9s",
+            "github": "https://github.com/arunHedCET/a6sp9s"
         },
-        "summary": "An accounts and permissions package for meteor js"
+        "summary": "An accounts and permissions package for meteor JS"
     }, {
         "name": "nw-boilerplate",
         "urls": {
-            "github": "https://github.com/arunhedcet/nw-boilerplate"
+            "github": "https://github.com/arunHedCET/nw-boilerplate"
         },
-        "summary": "Node webkit boilerplate using Gulp"
+        "summary": "Node webkit boilerplate to build desktop apps including polymer"
     }, {
         "name": "Polymer-ui",
         "urls": {
-            "main": "https://atmospherejs.com/hedcet/polymer-ui",
+            "main": "https://atmosphereJS.com/HedCET/polymer-ui",
             "github": "https://github.com/HedCET/polymer-ui"
         },
-        "summary": "Polymer UI for meteor front end"
+        "summary": "Use Polymer as the front end framework for Meteor instead of Blaze."
     }],
     "skills": [{
         "name": "Programming Languages",
@@ -141,20 +143,18 @@
         "name": "Web Libraries & Frameworks",
         "level": "Master",
         "keywords": [
-            "Node js",
-            "Meteor js",
+            "Node JS",
+            "Meteor JS",
             "Express",
             "Codeigniter",
             "PhpQuery",
             "Cheerio",
             "Gulp",
-            "Grunt",
-            "Underscore,Underscore String",
+            "Underscore JS",
             "Moment",
             "Node Webkit",
             "Xulrunner",
             "Cordova",
-            "Disk DB",
             "Phantom JS"
         ]
     }, {
@@ -167,7 +167,8 @@
             "Handlebars",
             "Backbone",
             "Bootstrap",
-            "D3 js",
+            "Less",
+            "D3 JS",
             "HighCharts",
             "Nvd3",
             "Handsontable",
@@ -175,22 +176,14 @@
             "Datatable",
             "FancyTree",
             "JSTree",
-            "Web components",
             "Rangy",
-            "Dexie js",
-            "Less"
+            "Dexie JS"
         ]
     }, {
         "name": "DevOps",
         "level": "Master",
         "keywords": [
             "AWS (EC2,Route53)", "Godaddy", "Modulus", "MongoHQ", "Owncloud"
-        ]
-    }, {
-        "name": "Programming Editors/IDEs",
-        "level": "Master",
-        "keywords": [
-            "vim", "Sublime Text", "Bluefish", "Eclipse", "Netbeans"
         ]
     }, {
         "name": "Version Control",
@@ -206,18 +199,6 @@
     }, {
         "language": "Hindi",
         "fluency": "Native Fluency"
-    }],
-    "interests": [{
-        "name": "Entertainment",
-        "keywords": [
-            "Movies",
-            "Music",
-            "Video Games",
-            "Reading",
-            "Android ROM development",
-            "Gadgets"
-
-        ]
     }]
 
 }

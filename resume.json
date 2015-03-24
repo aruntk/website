@@ -6,9 +6,13 @@
         "email": "aruntknambiar@gmail.com",
         "phone": "8375860755",
         "website": "http://tkay.io",
-        "summary": "I'm a passionate JavaScript developer with 2+ years of experience in development as well as tech operations. \n\r I've co-founded a web startup called 'Hedcet' during my college days,which went on to make some cool products in the intellectual property domain. \n\r I completed my graduation in Electronics and Communication Engineering from the esteemed College of Engineering , Trivandrum .",
+        "summary": ["I'm a passionate JavaScript developer with 2+ years of experience in development as well as tech operations. ",
+            "I've co-founded a web startup called 'Hedcet' during my college days,which went on to make some cool products in the intellectual property domain. ",
+            "I completed my graduation in Electronics and Communication Engineering from the esteemed College of Engineering, Trivandrum .",
+            "When I'm not working I like - Thinking about my own existence; Reading wikipedia articles; Recording songs and listening to them; Disassembling & Assembling gadgets; Rooting and Checking out new ROM releases for my Nexus devices; Watching Atletico Madrid matches, Lionel Messi's dribbling videos, Werner Herzog movies; Listening System of a down songs; Reading Works of Kafka, Camus, Dostoevsky Nietzsche etc.; or Adding new books to my calibre library."
+        ],
         "location": {
-            "address": "Krishnalayam , Chithappile Poyil PO,Taliparamba",
+            "address": "Krishnalayam, Chithappile Poyil PO,Taliparamba",
             "postalCode": "670502",
             "city": "Kannur",
             "countryCode": "IN",
@@ -37,18 +41,31 @@
         }, {
             "network": "linkedin",
             "username": "arunhedcet",
-            "url": "in.linkedin.com/in/tkarun"
+            "url": "http://in.linkedin.com/in/tkarun"
         }]
     },
     "work": [{
-        "company": "HEDCET TECHNOLOGIES PRIVATE LIMITED",
+        "company": "Clairvolex Knowledge Processes Pvt Ltd",
+        "position": "IT Consultant",
+        "website": "http://clairvolex.com",
+        "startDate": "2013-08-01",
+        "endDate": "",
+        "summary": "Leading software development for the IP products initiative Clay-IP. My key responsibilites include leading the the front end development for all products, Product management and setting technological visions. ",
+        "highlights": [
+            "IP Dashboard : Designed and Developed UI & UX for the product. Technologies used  -  Framework : Meteor js, Front End LIbraries : Jquery, Polymer, Handsontable, FancyTree, nvD3 etc. DB - Mongo DB",
+            "Proofreading Report Generation (PRG) : PRG is a proofreading workbench for paralegals. I Envisioned, managed and led the development process. Framework : Meteor JS, DB : Mongo DB, libraries used : JQuery, JQuery UI, Bootstrap, Rangy, Textcomplete etc",
+            "IP-Analytics Tool : Next generation IP Analytics and Visualization tool. Developed using Meteor js, NW js, D3, MongoDB, Dexie JS Cheerio Highcharts, Polymer etc",
+            "Other Products : Patent Term Adjustment (PTA) Calculator, Patent Family Tree Generator, Patent Data Accumulator etc."
+        ]
+    }, {
+        "company": "HedCET technologies Private ltd.",
         "position": "Co-founder & Developer",
         "website": "http://hedcet.com",
         "startDate": "2011-01-01",
-        "endDate": "",
-        "summary": "I've co-founded Hedcet technologies pvt ltd in 2011 during my graduation days. In 2013 We signed a partnership agreement with clairvolex.inc , an IP solutions company. Hedcet have develped many IP products which provide automation and intuitive Web 2.0 experience; assisting various stages of patent prosecution and litigation. My area of work at Hedcet are leading the front end development and R&D, Creating technological vision and UI & UX designing. ",
+        "endDate": "2013-08-01",
+        "summary": "I've co-founded Hedcet technologies pvt ltd in 2011 during my graduation days. In 2013 We signed a partnership agreement with clairvolex.inc, an IP solutions company. Hedcet have develped many IP products which provide automation and intuitive Web 2.0 experience; assisting various stages of patent prosecution and litigation. My area of work at Hedcet are leading the front end development and R&D, Creating technological vision and UI & UX designing. ",
         "highlights": [
-            "Incubated at Start Up Village,Kochi", "Developed web applications for patent lawyers and paralegals such as IP-Dashboard , PRG(Proofreading Report Generator), SC(status checker), PATCAL (patent term calculator), Patent Data Accumulater (PDA) and many business automation tools", "Developed an enterprise android mail client called TinyMail"
+            "Incubated in Start Up Village,Kochi", "Developed web applications for patent lawyers and paralegals such as IP-Dashboard, PRG(Proofreading Report Generator), SC(status checker), PATCAL (patent term calculator), Patent Data Accumulater (PDA) and many business automation tools", "Developed an enterprise android mail client called TinyMail"
         ]
     }],
     "education": [{
@@ -71,7 +88,7 @@
                 "url": "http://yourstory.com/2013/03/hedcet-a-student-startup-with-a-very-grown-up-offering/"
             }]
         },
-        "summary": "TinyMail ,is an android app which was a mail client for enterprises . It simplified mailing in the sense that it linked mail with mobile numbers . I worked on the UI part of the android application."
+        "summary": "TinyMail, is an android app which was a mail client for enterprises . It simplified mailing in the sense that it linked mail with mobile numbers . I worked on the UI part of the android application."
     }, {
         "name": "Torrenter",
         "urls": {
@@ -195,7 +212,11 @@
         "keywords": [
             "Movies",
             "Music",
-            "Video Games"
+            "Video Games",
+            "Reading",
+            "Android ROM development",
+            "Gadgets"
+
         ]
     }]
 

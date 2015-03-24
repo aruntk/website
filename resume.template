@@ -294,7 +294,8 @@
                   </h4>
 
                   <div class="content" itemprop="description">
-                    {{resume.basics.summary}}
+                   
+                    {{#each resume.basics.summary}}{{.}}<br>{{/each}}
                   </div>
                 </div>
               </div>

@@ -1,204 +1,197 @@
 {
-    "basics": {
-        "name": "Arun Kumar T K",
-        "label": "JavaScript developer",
-        "picture": "https://avatars0.githubusercontent.com/u/6007432?v=3&u=52af0cc86f289cc27fdb170b1e950e1176243cbf&s=140",
-        "email": "aruntknambiar@gmail.com",
-        "phone": "8375860755",
-        "website": "http://tkay.io",
-        "summary": ["I'm a passionate JavaScript developer with 2+ years of experience in development and product management.",
-            "I've co-founded a web startup called 'HedCET' during my college days,which went on to make some cool products in the intellectual property domain. ",
-            "I completed my graduation in Electronics and Communication Engineering from the esteemed College of Engineering, Trivandrum .",
-            "When I'm not coding I like Reading wikipedia articles; Recording songs; Disassembling & Assembling gadgets; Checking out new ROM releases and kernels for my Nexus devices; Watching Atletico Madrid matches; Listening System of a down songs; Reading Works of Kafka, Camus, Dostoevsky Nietzsche etc.; Adding new books to my calibre library; or Watching movies."
-        ],
-        "location": {
-            "address": "Krishnalayam, Chithappile Poyil PO,Taliparamba",
-            "postalCode": "670502",
-            "city": "Kannur",
-            "countryCode": "IN",
-            "region": "Kerala"
-        },
-        "dob": {
-            "age": "22",
-            "date": "03-May-1992"
-        },
-        "profiles": [{
-            "network": "facebook",
-            "username": "ajlambesis",
-            "url": "https://www.facebook.com/AJLambesis"
-        }, {
-            "network": "SoundCloud",
-            "username": "arunkumartk",
-            "url": "https://soundcloud.com/arunkumartk"
-        }, {
-            "network": "Blog",
-            "username": "serjicalkafka",
-            "url": "http://serjicalkafka.blogspot.in"
-        }, {
-            "network": "Github",
-            "username": "arunHedCET",
-            "url": "https://github.com/arunHedCET"
-        }, {
-            "network": "linkedin",
-            "username": "arunHedCET",
-            "url": "http://in.linkedin.com/in/tkarun"
-        }]
+  "basics": {
+    "name": "Arun Kumar T K",
+    "label": "JavaScript developer",
+    "picture": "https://avatars0.githubusercontent.com/u/6007432?v=3&u=52af0cc86f289cc27fdb170b1e950e1176243cbf&s=140",
+    "email": "aruntknambiar@gmail.com",
+    "phone": "8375860755",
+    "website": "http://aruntk.com",
+    "summary": ["I'm a passionate JavaScript developer with 4+ years of experience in development and product management.",
+      "I've co-founded a web startup called 'HedCET' during my college days,which went on to make some cool products in the intellectual property domain. ",
+      "I completed my graduation in Electronics and Communication Engineering from the esteemed College of Engineering, Trivandrum .",
+      "When I'm not coding I like going through wikipedia articles and tech blogs; Tinkering with gadgets; Watching Atletico Madrid matches; Adding new books to my calibre library; Watching movies."
+    ],
+    "location": {
+      "address": "Krishnalayam, Chithappile Poyil PO,Taliparamba",
+      "postalCode": "670502",
+      "city": "Kannur",
+      "countryCode": "IN",
+      "region": "Kerala"
     },
-    "work": [{
-        "company": "Clairvolex Knowledge Processes Pvt Ltd",
-        "position": "IT Consultant",
-        "website": "http://clairvolex.com",
-        "startDate": "2013-08-01",
-        "endDate": "",
-        "summary": "Leading software development for the IP products initiative Clay-IP. My key responsibilites include leading the the front end development for all products, Product management and setting technological visions. ",
-        "highlights": [
-            "IP Dashboard : Designed and Developed UI & UX for the product. Developed using Meteor JS, Mongo DB, Polymer, Handsontable, FancyTree, nvD3 etc.",
-            "Proofreading Report Generation (PRG) : PRG is a proofreading workbench for paralegals. I led the development process. Developed using Meteor JS, Mongo DB, JQuery UI, Bootstrap, Rangy etc",
-            "IP-Analytics Tool : Next generation IP Analytics and Visualization tool. Developed using Meteor JS, NW JS, D3, MongoDB, Dexie JS Cheerio Highcharts, Polymer etc",
-            "Patent Data Accumulators : This tool Scrapes data from patent websites such as USPTO Public Pair, Espacenet, WIPO, Indian PTO etc. Developed using Meteor JS, Phantom JS, Casper JS, Cheerio, MongoDB etc",
-            "Other Products : Patent Term Adjustment (PTA) Calculator, Patent Family Tree Generator etc."
-        ]
+    "dob": {
+      "age": "25",
+      "date": "03-May-1992"
+    },
+    "profiles": [{
+      "network": "facebook",
+      "username": "arun.tkay",
+      "url": "https://www.facebook.com/arun.tkay"
     }, {
-        "company": "HedCET technologies Private ltd.",
-        "position": "Co-founder & Developer",
-        "website": "http://HedCET.com",
-        "startDate": "2011-01-01",
-        "endDate": "2013-08-01",
-        "summary": "I've co-founded HedCET technologies pvt ltd in 2011 during my graduation days. In 2013 HedCET signed an agreement with clairvolex.inc and have since develped many IP products assisting various stages of patent prosecution and litigation.",
-        "highlights": [
-            "Incubated in Start Up Village,Kochi",
-            "Developed a mail client called TinyMail",
-            "Developed Beehive an ERP software for the schools and colleges."
-        ]
-    }],
-    "education": [{
-        "institution": "College Of Engineering Trivandrum",
-        "area": "Electronics and Communication",
-        "studyType": "Bachelor",
-        "startDate": "2009-06-01",
-        "endDate": "2013-06-01"
-    }],
-    "openSource": [{
-        "name": "TinyMail",
-        "urls": {
-            "play": "https://play.google.com/store/apps/details?id=com.vcompile.android&hl=en",
-            "news": [{
-                "name": "The Hindu",
-                "url": "http://www.thehindubusinessline.com/industry-and-economy/info-tech/will-tinymail-on-phone-make-mail-ids-redundant/article4646525.ece?homepage=true"
-            }, {
-                "name": "YourStory",
-                "url": "http://yourstory.com/2013/03/HedCET-a-student-startup-with-a-very-grown-up-offering/"
-            }]
-        },
-        "summary": "This is an android application which serves to replace your email id with your mobile number,using which you can mail your contacts. In essence you don't need to know a persons mail id to mail him,mobile number would suffice. Our application replaces the native contacts application by adding the effective functionality described above"
+    "network": "SoundCloud",
+    "username": "arunkumartk",
+    "url": "https://soundcloud.com/arunkumartk"
     }, {
-        "name": "Torrenter",
-        "urls": {
-            "main": "http://torrenter.meteor.com",
-            "github": "http://github.com/sujith3g/torwatch"
-        },
-        "summary": "Torrenter is a torrent alert & todo list app. Torrenter alerts the users if a new torrent file is added in his/her desired catagory/subscribed keyword."
+    "network": "Github",
+    "username": "aruntk",
+    "url": "https://github.com/aruntk"
     }, {
-        "name": "a6sp9s",
-        "urls": {
-            "main": "https://atmosphereJS.com/aruntk/a6sp9s",
-            "github": "https://github.com/arunHedCET/a6sp9s"
-        },
-        "summary": "An accounts and permissions package for meteor JS"
-    }, {
-        "name": "nw-boilerplate",
-        "urls": {
-            "github": "https://github.com/arunHedCET/nw-boilerplate"
-        },
-        "summary": "Node webkit boilerplate to build desktop apps including polymer"
-    }, {
-        "name": "Polymer-ui",
-        "urls": {
-            "main": "https://atmosphereJS.com/HedCET/polymer-ui",
-            "github": "https://github.com/HedCET/polymer-ui"
-        },
-        "summary": "Use Polymer as the front end framework for Meteor instead of Blaze."
-    }],
-    "skills": [{
-        "name": "Programming Languages",
-        "level": "Master",
-        "keywords": [
-            "JavaScript/CoffeeScript",
-            "PHP"
-        ]
-    }, {
-        "name": "Markup & Formats",
-        "level": "Master",
-        "keywords": [
-            "HTML5", "CSS3", "XML", "Open XML", "JSON"
-        ]
-    }, {
-        "name": "Database Systems",
-        "level": "Master",
-        "keywords": ["MongoDB",
-            "MySQL",
-            "IndexedDB", "DiskDB"
-        ]
-    }, {
-        "name": "Web Libraries & Frameworks",
-        "level": "Master",
-        "keywords": [
-            "Node JS",
-            "Meteor JS",
-            "Express",
-            "Codeigniter",
-            "PhpQuery",
-            "Cheerio",
-            "Gulp",
-            "Underscore JS",
-            "Moment",
-            "Node Webkit",
-            "Xulrunner",
-            "Cordova",
-            "Phantom JS"
-        ]
-    }, {
-        "name": "Frontend Web Libraries & Frameworks",
-        "level": "Master",
-        "keywords": [
-            "JQuery",
-            "JQuery UI",
-            "Polymer",
-            "Handlebars",
-            "Backbone",
-            "Bootstrap",
-            "Less",
-            "D3 JS",
-            "HighCharts",
-            "Nvd3",
-            "Handsontable",
-            "SpreadJS",
-            "Datatable",
-            "FancyTree",
-            "JSTree",
-            "Rangy",
-            "Dexie JS"
-        ]
-    }, {
-        "name": "DevOps",
-        "level": "Master",
-        "keywords": [
-            "AWS (EC2,Route53)", "Godaddy", "Modulus", "MongoHQ", "Owncloud"
-        ]
-    }, {
-        "name": "Version Control",
-        "level": "Master",
-        "keywords": ["Git", "Subversion"]
-    }],
-    "languages": [{
-        "language": "English",
-        "fluency": ""
-    }, {
-        "language": "Malayalam",
-        "fluency": "Native Fluency"
-    }, {
-        "language": "Hindi",
-        "fluency": "Native Fluency"
+    "network": "linkedin",
+    "username": "tkarun",
+    "url": "http://in.linkedin.com/in/tkarun"
     }]
-
+  },
+  "work": [{
+    "company": "Clairvolex Knowledge Processes Pvt Ltd",
+    "position": "Senior Software Engineer",
+    "website": "http://clairvolex.com",
+    "startDate": "2013-08-01",
+    "endDate": "",
+    "summary": "Leading software development for the IP products initiative Clay-IP. My key responsibilites include leading the the front end development for all products, Product architecture and setting technological visions. ",
+    "highlights": [
+      "IP Dashboard : Designed and Developed the product. Developed using Meteor JS, Apollo, Graphql, Mongo DB, Polymer, Handsontable, FancyTree, nvD3 etc. Ongoing project.",
+      "IP-Analytics Tool : Next generation IP Analytics and Visualization tool. Developed using Meteor JS, Electron, Solr, ElasticSearch, Hadoop, Kafka, D3, MongoDB, Echarts, Polymer etc. Ongoing project. Leading the front end development.",
+      "Patent Data Accumulators : This tool Scrapes data from patent websites such as USPTO Public Pair, Espacenet, WIPO, Indian PTO etc, OCRs image files, dumps the data in a data warehouse. Developed using Meteor JS, Nightmare, Cheerio, MongoDB etc",
+      "LEAP : Internal Process management system and data store.",
+      "Patent Task Manager : App to manage patent related tasks. Led the frontend development works",
+      "Virtual Patent Marking Tool : Web app to mark patent to product mapping. Created the app ",
+      "Proofreading Report Generation (PRG) : PRG is a proofreading workbench for paralegals. I led the development process. Developed using Meteor JS, Mongo DB,  React etc",
+      "Other Products : Patent Term Adjustment (PTA) Calculator, Patent Family Tree Generator etc."
+    ]
+  }, {
+  "company": "HedCET technologies Private ltd.",
+  "position": "Co-founder & Developer",
+  "website": "http://HedCET.com",
+  "startDate": "2011-01-01",
+  "endDate": "2013-08-01",
+  "summary": "I've co-founded HedCET technologies pvt ltd in 2011 during my graduation days. In 2013 HedCET signed an agreement with clairvolex.inc and have since develped many IP products assisting various stages of patent prosecution and litigation.",
+  "highlights": [
+    "Incubated in Start Up Village,Kochi",
+    "Developed a mail client called TinyMail",
+    "Developed Beehive an ERP software for the schools and colleges."
+  ]
+  }],
+  "education": [{
+    "institution": "College Of Engineering Trivandrum",
+    "area": "Electronics and Communication",
+    "studyType": "Bachelor",
+    "startDate": "2009-06-01",
+    "endDate": "2013-06-01"
+  }],
+  "openSource": [
+    {
+      "name": "wc-loader",
+      "urls": {
+        "github": "https://github.com/aruntk/wc-loader"
+      },
+      "summary": "Webcomponents webpack loader"
+    },
+    {
+      "name": "polymer-apollo",
+      "urls": {
+        "github": "https://github.com/aruntk/polymer-apollo"
+      },
+      "summary": "Polymer Apollo Integration"
+    },
+    {
+      "name": "Grow-IoT",
+      "urls": {
+        "main": "http://commongarden.org",
+        "github": "https://github.com/CommonGarden/"
+      },
+      "summary": "Open source software for growing things."
+    },
+    {
+      "name": "Synthesis",
+      "urls": {
+        "main": "https://atmospherejs.com/mwc/synthesis",
+        "github": "https://github.com/meteorwebcomponents/synthesis"
+      },
+      "summary": "Synthesis helps you use polymer inside meteor."
+    },
+    {
+      "name": "Mixin",
+      "urls": {
+        "github": "https://github.com/meteorwebcomponents/mixin",
+        "main":"https://atmospherejs.com/mwc/mixin"
+      },
+      "summary": "mwcMixin is a reactive meteor data source for polymer elements"
+    }
+  ],
+  "skills": [{
+    "name": "Programming Languages",
+    "level": "Master",
+    "keywords": [
+      "JavaScript, ES6",
+      "PHP"
+    ]
+  }, {
+  "name": "Markup & Formats",
+  "level": "Master",
+  "keywords": [
+    "HTML5", "CSS3", "XML", "Open XML", "JSON"
+  ]
+  }, {
+  "name": "Database Systems",
+  "level": "Master",
+  "keywords": [
+    "MongoDB",
+    "MySQL"
+  ]
+  }, {
+  "name": "Web Libraries & Frameworks",
+  "level": "Master",
+  "keywords": [
+    "Node JS",
+    "Meteor JS",
+    "Express",
+    "Next",
+    "Codeigniter",
+    "GraphQL",
+    "Apollo",
+    "Firebase",
+    "Webpack",
+    "React",
+    "Polymer",
+    "Vue",
+    "Angular",
+    "JQuery",
+    "Electron",
+    "Nightmare",
+    "PhantomJS",
+    "Mocha",
+    "Task runners, grunt, gulp",
+    "Charting Libraries, D3, Highcharts, Echarts etc"
+  ]
+  }, {
+  "name": "DevOps",
+  "level": "Master",
+  "keywords": [
+    "Hosting : AWS, Azure, Digital Ocean", "Docker", "Nginx", "Apache", "pm2", "memcached", "varnish", "Circle, Travic CI etc", "vagrant"
+  ]
+  }, {
+  "name": "Version Control",
+  "level": "Master",
+  "keywords": ["Git", "Subversion"]
+  },
+  {
+    "name": "Development Setup",
+    "level": "Master",
+    "keywords": [
+      "Macbook Pro 2015 with Sierra",
+      "Editor - Vim",
+      "Terminal - Iterm2 with tmux",
+      "Shell - zsh"
+    ]
+  }
+  ],
+  "languages": [{
+    "language": "English",
+    "fluency": ""
+  }, {
+  "language": "Malayalam",
+  "fluency": "Native Fluency"
+  }, {
+  "language": "Hindi",
+  "fluency": "Native Fluency"
+  }]
 }

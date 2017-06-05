@@ -17,21 +17,21 @@
   },
   "homepage": "https://tkay.io",
   "dependencies": {
-    "gravatar": "^1.0.6",
-    "handlebars": "^2.0.0-alpha.4",
-    "moment": "^2.8.1",
-    "resume-schema": "0.0.15",
-    "tarball-extract": "0.0.3",
-    "underscore": "^1.6.0"
+    "gravatar": "^1.6.0",
+    "handlebars": "^4.0.10",
+    "moment": "^2.18.1",
+    "resume-schema": "^0.0.16",
+    "tarball-extract": "0.0.6",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-contrib-less": "^0.11.4",
-    "grunt-contrib-watch": "^0.6.1",
-    "grunt-exec": "^0.4.6",
-    "grunt-contrib-copy": "0.4.x",
-    "grunt-contrib-clean": "0.5.x",
-    "less": "^1.7.5",
-    "underscore.string": "^2.3.3"
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-exec": "^2.0.0",
+    "less": "^2.7.2",
+    "underscore.string": "^3.3.4"
   }
 }

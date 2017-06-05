@@ -7,10 +7,11 @@
 //
 
 var http = require("http");
-var resume = require("resume-schema").resumeJson;
+var fs = require('fs');
+var resume = require('./resume.json');
 var theme = require("./index.js");
 
-var port = 80;
+var port = process.env.PORT || 80;
 http.createServer(function(req, res) {
     res.writeHead(200, {
         "Content-Type": "text/html"
@@ -18,7 +19,7 @@ http.createServer(function(req, res) {
     res.end(render());
 }).listen(port);
 
-console.log("Preview: http://localhost:8888/");
+console.log("Preview: http://localhost:"+port+"/");
 console.log("Serving..");
 
 function render() {

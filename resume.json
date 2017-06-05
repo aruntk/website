@@ -81,6 +81,7 @@
     {
       "name": "wc-loader",
       "urls": {
+        "main": "https://www.npmjs.com/package/wc-loader",
         "github": "https://github.com/aruntk/wc-loader"
       },
       "summary": "Webcomponents webpack loader"
@@ -88,6 +89,7 @@
     {
       "name": "polymer-apollo",
       "urls": {
+        "main": "https://www.npmjs.com/package/polymer-apollo",
         "github": "https://github.com/aruntk/polymer-apollo"
       },
       "summary": "Polymer Apollo Integration"

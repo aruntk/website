@@ -48,7 +48,7 @@
     "endDate": "",
     "summary": "Leading software development for the IP products initiative Clay-IP. My key responsibilites include leading the the front end development for all products, Product architecture and setting technological visions. ",
     "highlights": [
-      "IP Dashboard : Designed and Developed the product. Developed using Meteor JS, Apollo, Graphql, Mongo DB, Polymer, Handsontable, FancyTree, nvD3 etc. Ongoing project.",
+      "IP Dashboard : Designed and Developed the product. Developed using Meteor JS, Apollo, Graphql, Mongo DB, Polymer, D3, Echarts etc. Ongoing project.",
       "IP-Analytics Tool : Next generation IP Analytics and Visualization tool. Developed using Meteor JS, Electron, Solr, ElasticSearch, Hadoop, Kafka, D3, MongoDB, Echarts, Polymer etc. Ongoing project. Leading the front end development.",
       "Patent Data Accumulators : This tool Scrapes data from patent websites such as USPTO Public Pair, Espacenet, WIPO, Indian PTO etc, OCRs image files, dumps the data in a data warehouse. Developed using Meteor JS, Nightmare, Cheerio, MongoDB etc",
       "LEAP : Internal Process management system and data store.",

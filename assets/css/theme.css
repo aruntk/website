@@ -330,8 +330,8 @@ body {
     float: left;
     width: 100%;
     min-height: 1px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 }
 @media (max-width: 992px) {
@@ -612,12 +612,11 @@ body {
   }
   .contact-details .detail {
     position: relative;
-    float: left;
-    width: 25%;
+    vertical-align: middle;
+    width: 18%;
     min-height: 1px;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding: 0;
+    padding-left: 4%;
+    padding-right: 4%;
   }
   .floating-nav,
   .floating-nav-trigger {

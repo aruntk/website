@@ -1,15 +1,16 @@
 {
   "basics": {
     "name": "Arun Kumar T K",
-    "label": "Web developer",
+    "label": "Lead Engineer",
     "picture": "https://avatars1.githubusercontent.com/u/6007432?v=3&u=e302a23781b97550b8b791900bf320f8bc41d298&s=400",
     "email": "aruntknambiar@gmail.com",
     "phone": "8375860755",
     "website": "http://aruntk.com",
-    "summary": ["I'm a passionate Web developer with 5+ years of experience in web app design and development",
-      "I've co-founded a web startup called 'HedCET' during my college days,which went on to make some cool products in the intellectual property domain. ",
-      "I completed my graduation in Electronics and Communication Engineering from the esteemed College of Engineering, Trivandrum .",
-      "When I'm not coding I like going through wikipedia articles and tech blogs; Tinkering with gadgets; Watching Atletico Madrid matches; Adding new books to my calibre library; Watching movies."
+    "summary": ["Lead Engineer with 5+ years of experience in software development specializing in database design product architecture and web development",
+      "Acted as Agile Scrum Master for Engineering teams. Organized and facilitated project planning, daily stand-up meetings, reviews, retrospectives, sprint, release planning, demos, and other Scrum-related meetings",
+      "Skilled at working with clients and stakeholders to understand requirements and translate them into code that solves business problems",
+      "Co-founded a web startup called 'HedCET' during my college days, which went on to make some cool products in the intellectual property domain. ",
+      "Completed my graduation in Electronics and Communication Engineering from the esteemed College of Engineering, Trivandrum ."
     ],
     "location": {
       "address": "Krishnalayam, Chithappile Poyil PO,Taliparamba",
@@ -46,12 +47,12 @@
     "website": "http://clairvolex.com",
     "startDate": "2013-08-01",
     "endDate": "",
-    "summary": "Leading software development for the IP products initiative - Leap. My key responsibilites include leading the web full stack development for all products, Product architecture, DB design etc",
+    "summary": "Leading software development for the IP products initiative - Leap. My key responsibilites include Understanding business requirements and design software solutions, Managing the web full stack development for all the following products.",
     "highlights": [
-      "Drafter : AI & ML based drafting tool for patent prosecution. Lead the design and development of the product. Developed using NestJS, NextJS, MySQL, React, D3, Recharts etc. Ongoing project.",
-      "Insights : AI & ML based Patent Data Analytics Tool. Lead the design and development of the product. Developed using Express, MySQL, React, D3, Recharts etc. Completed project. http://insights.leap-ip.com/",
-      "Worx : Collaborative patent prosecution workbench. Designed and Developed the product. Developed using Bonita, Express, MySQL, React, D3, Recharts etc. Ongoing project. http://worx.leap-ip.com/",
-      "Spectrum : Auto Docketing + Auto IDS with workflows and intuitive dashboards. Designed and Developed the product. Developed using Bonita, Express, MySQL, React, D3, Recharts etc. http://spectrum.leap-ip.com/",
+      "Drafter : AI & ML based drafting tool for patent prosecution. Leading the design and development of the product. Developed using NestJS, NextJS, MySQL, React, D3, Recharts etc. Ongoing project.",
+      "Insights : AI & ML based Patent Data Analytics Tool. Lead the design and development of the product. Developed using Express, MySQL, React, D3, Recharts etc. http://insights.leap-ip.com/",
+      "Worx : Collaborative patent prosecution workbench. Developed using Bonita, Express, MySQL, React, D3, Recharts etc. http://worx.leap-ip.com/",
+      "Spectrum : Auto Docketing + Auto IDS with workflows and intuitive dashboards. Developed using Bonita, Express, MySQL, React, D3, Recharts etc. http://spectrum.leap-ip.com/",
       "Patent Data Accumulators + ETL tools : Set of crawlers to scrape data from patent websites such as USPTO Public Pair, Espacenet, WIPO, Indian PTO etc, OCRs image files, populate the data in a data warehouse. Developed using Nightmare, Cheerio, Talend, MySQL, MongoDB etc",
       "Other Products : Proofreading Report Generation, Patent Term Adjustment (PTA) Calculator, Patent Family Tree Generator, Virtual Patent Marking Tool etc."
     ]
@@ -64,7 +65,7 @@
   "summary": "I've co-founded HedCET technologies pvt ltd in 2011 during my graduation days. In 2013 HedCET signed an agreement with clairvolex.inc and have since develped many IP products assisting various stages of patent prosecution and litigation.",
   "highlights": [
     "Incubated in Start Up Village,Kochi",
-    "Developed a mail client called TinyMail",
+    "Developed mobile number based mail client called TinyMail (Basic version of whatsapp)",
     "Developed Beehive an ERP software for the schools and colleges."
   ]
   }],
@@ -143,22 +144,27 @@
       "TypeScript",
       "JavaScript, ES6",
       "Python",
-      "PHP"
+      "PHP",
+      "HTML5",
+      "CSS3"
     ]
   }, {
-  "name": "Markup & Formats",
-  "level": "Master",
-  "keywords": [
-    "HTML5", "CSS3", "XML", "Open XML", "JSON"
-  ]
-  }, {
-  "name": "Database Systems",
+  "name": "Databases",
   "level": "Master",
   "keywords": [
     "MySQL",
-    "MongoDB"
+    "MongoDB",
+    "Redis"
   ]
   }, {
+  "name": "Workflow Tools",
+  "level": "Master",
+  "keywords": [
+    "Airflow",
+    "Bonita"
+  ]
+  },
+  {
   "name": "Web Libraries & Frameworks",
   "level": "Master",
   "keywords": [
@@ -168,8 +174,8 @@
     "Flask",
     "Next JS",
     "GraphQL",
-    "Workflow Tools -> Airflow, Bonita",
     "Task runners -> grunt, gulp",
+    "Charting Libraries, D3, Highcharts, Echarts etc",
     "Meteor JS",
     "NestJS",
     "Codeigniter",
@@ -178,7 +184,6 @@
     "Webpack",
     "Polymer",
     "Nightmare",
-    "Charting Libraries, D3, Highcharts, Echarts etc",
     "Test Suites -> Jest, Mocha",
     "Testing Libraries -> Enzyme, Supertest, Chai",
     "Istanbul"
@@ -187,20 +192,17 @@
   "name": "DevOps",
   "level": "Master",
   "keywords": [
-    "Hosting : AWS, Azure, Digital Ocean", "Docker", "Nginx", "Apache", "pm2", "memcached", "varnish", "Circle, Travic CI etc", "vagrant"
+    "Hosting : AWS, Azure, Digital Ocean", "Docker", "Nginx", "Apache", "pm2", "memcached", "varnish", "Circle, Travic CI etc"
   ]
-  }, {
-  "name": "Version Control",
-  "level": "Master",
-  "keywords": ["Git"]
   },
   {
     "name": "Development Setup",
     "level": "Master",
     "keywords": [
-      "Macbook Pro 2015",
+      "OS -> Mac OSX, Arch Linux(Manjaro), Debian(Ubuntu)",
       "Editor - NeoVim",
-      "Terminal Setup - ZSH with tmux"
+      "Terminal Setup - ZSH with tmux",
+      "Version Control - Git with Github"
     ]
   }
   ],

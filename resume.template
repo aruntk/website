@@ -430,12 +430,12 @@
                                 {{/if}}
                               </small>
                             </p>
-                           <!--  <i>{{gpa}}</i>
-                            <div class="space-top labels">
-                              {{#courses}}
-                                <span class="label label-keyword">{{.}}</span>
-                              {{/courses}}
-                            </div> -->
+                             <i>{{gpa}}</i>
+                            <!--<div class="space-top labels">-->
+                              <!--{{#courses}}-->
+                                <!--<span class="label label-keyword">{{.}}</span>-->
+                              <!--{{/courses}}-->
+                            <!--</div> -->
                           </div>
                         </li>
                       {{/each}}

@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Arun Kumar T K",
-    "label": "JavaScript developer",
+    "label": "Web developer",
     "picture": "https://avatars1.githubusercontent.com/u/6007432?v=3&u=e302a23781b97550b8b791900bf320f8bc41d298&s=400",
     "email": "aruntknambiar@gmail.com",
     "phone": "8375860755",
     "website": "http://aruntk.com",
-    "summary": ["I'm a passionate JavaScript developer with 4+ years of experience in development and product management.",
+    "summary": ["I'm a passionate Web developer with 5+ years of experience in web app design and development",
       "I've co-founded a web startup called 'HedCET' during my college days,which went on to make some cool products in the intellectual property domain. ",
       "I completed my graduation in Electronics and Communication Engineering from the esteemed College of Engineering, Trivandrum .",
       "When I'm not coding I like going through wikipedia articles and tech blogs; Tinkering with gadgets; Watching Atletico Madrid matches; Adding new books to my calibre library; Watching movies."
@@ -23,10 +23,6 @@
       "date": "03-May-1992"
     },
     "profiles": [{
-      "network": "facebook",
-      "username": "arun.tkay",
-      "url": "https://www.facebook.com/arun.tkay"
-    }, {
     "network": "SoundCloud",
     "username": "arunkumartk",
     "url": "https://soundcloud.com/arunkumartk"
@@ -38,24 +34,26 @@
     "network": "linkedin",
     "username": "tkarun",
     "url": "http://in.linkedin.com/in/tkarun"
+    }, {
+    "network": "stackoverflow",
+    "username": "tkay",
+    "url": "https://stackoverflow.com/users/3815092/tkay"
     }]
   },
   "work": [{
     "company": "Clairvolex Knowledge Processes Pvt Ltd",
-    "position": "Senior Software Engineer",
+    "position": "Lead Engineer",
     "website": "http://clairvolex.com",
     "startDate": "2013-08-01",
     "endDate": "",
-    "summary": "Leading software development for the IP products initiative Clay-IP. My key responsibilites include leading the the front end development for all products, Product architecture and setting technological visions. ",
+    "summary": "Leading software development for the IP products initiative - Leap. My key responsibilites include leading the web full stack development for all products, Product architecture, DB design etc",
     "highlights": [
-      "IP Dashboard : Designed and Developed the product. Developed using Meteor JS, Apollo, Graphql, Mongo DB, Polymer, D3, Echarts etc. Ongoing project.",
-      "IP-Analytics Tool : Next generation IP Analytics and Visualization tool. Developed using Meteor JS, Electron, Solr, ElasticSearch, Hadoop, Kafka, D3, MongoDB, Echarts, Polymer etc. Ongoing project. Leading the front end development.",
-      "Patent Data Accumulators : This tool Scrapes data from patent websites such as USPTO Public Pair, Espacenet, WIPO, Indian PTO etc, OCRs image files, dumps the data in a data warehouse. Developed using Meteor JS, Nightmare, Cheerio, MongoDB etc",
-      "LEAP : Internal Process management system and data store.",
-      "Patent Task Manager : App to manage patent related tasks. Led the frontend development works",
-      "Virtual Patent Marking Tool : Web app to mark patent to product mapping. Created the app ",
-      "Proofreading Report Generation (PRG) : PRG is a proofreading workbench for paralegals. I led the development process. Developed using Meteor JS, Mongo DB,  React etc",
-      "Other Products : Patent Term Adjustment (PTA) Calculator, Patent Family Tree Generator etc."
+      "Drafter : AI & ML based drafting tool for patent prosecution. Lead the design and development of the product. Developed using NestJS, NextJS, MySQL, React, D3, Recharts etc. Ongoing project.",
+      "Insights : AI & ML based Patent Data Analytics Tool. Lead the design and development of the product. Developed using Express, MySQL, React, D3, Recharts etc. Completed project. http://insights.leap-ip.com/",
+      "Worx : Collaborative patent prosecution workbench. Designed and Developed the product. Developed using Bonita, Express, MySQL, React, D3, Recharts etc. Ongoing project. http://worx.leap-ip.com/",
+      "Spectrum : Auto Docketing + Auto IDS with workflows and intuitive dashboards. Designed and Developed the product. Developed using Bonita, Express, MySQL, React, D3, Recharts etc. http://spectrum.leap-ip.com/",
+      "Patent Data Accumulators + ETL tools : Set of crawlers to scrape data from patent websites such as USPTO Public Pair, Espacenet, WIPO, Indian PTO etc, OCRs image files, populate the data in a data warehouse. Developed using Nightmare, Cheerio, Talend, MySQL, MongoDB etc",
+      "Other Products : Proofreading Report Generation, Patent Term Adjustment (PTA) Calculator, Patent Family Tree Generator, Virtual Patent Marking Tool etc."
     ]
   }, {
   "company": "HedCET technologies Private ltd.",
@@ -72,10 +70,23 @@
   }],
   "education": [{
     "institution": "College Of Engineering Trivandrum",
-    "area": "Electronics and Communication",
+    "area": "Electronics and Communication Engineering",
     "studyType": "Bachelor",
     "startDate": "2009-06-01",
+    "gpa": "70%",
     "endDate": "2013-06-01"
+  }, {
+    "institution": "St Michaels AI HSS Kannur",
+    "area": "12th",
+    "startDate": "2007-06-01",
+    "gpa": "94%",
+    "endDate": "2009-06-01"
+  }, {
+    "institution": "Tagore Vidya Niketan HSS Taliparamba",
+    "area": "10th",
+    "startDate": "2002-06-01",
+    "gpa": "A+ in All Subjects. 90%+",
+    "endDate": "2007-06-01"
   }],
   "openSource": [
     {
@@ -85,6 +96,28 @@
         "github": "https://github.com/aruntk/wc-loader"
       },
       "summary": "Webcomponents webpack loader"
+    },
+    {
+      "name": "redux-api-saga",
+      "urls": {
+        "main": "https://www.npmjs.com/package/redux-api-saga",
+        "github": "https://github.com/aruntk/redux-api-saga"
+      },
+      "summary": "React API calls made simple"
+    },
+    {
+      "name": "graffiti (ongoing)",
+      "urls": {
+        "github": "https://github.com/aruntk/graffiti"
+      },
+      "summary": "Create configurable dashboards based on your data"
+    },
+    {
+      "name": "intron (ongoing)",
+      "urls": {
+        "github": "https://github.com/aruntk/intron"
+      },
+      "summary": "Chrome extension to view create and share website tours."
     },
     {
       "name": "polymer-apollo",
@@ -101,29 +134,15 @@
         "github": "https://github.com/CommonGarden/"
       },
       "summary": "Open source software for growing things."
-    },
-    {
-      "name": "Synthesis",
-      "urls": {
-        "main": "https://atmospherejs.com/mwc/synthesis",
-        "github": "https://github.com/meteorwebcomponents/synthesis"
-      },
-      "summary": "Synthesis helps you use polymer inside meteor."
-    },
-    {
-      "name": "Mixin",
-      "urls": {
-        "github": "https://github.com/meteorwebcomponents/mixin",
-        "main":"https://atmospherejs.com/mwc/mixin"
-      },
-      "summary": "mwcMixin is a reactive meteor data source for polymer elements"
     }
   ],
   "skills": [{
     "name": "Programming Languages",
     "level": "Master",
     "keywords": [
+      "TypeScript",
       "JavaScript, ES6",
+      "Python",
       "PHP"
     ]
   }, {
@@ -136,33 +155,33 @@
   "name": "Database Systems",
   "level": "Master",
   "keywords": [
-    "MongoDB",
-    "MySQL"
+    "MySQL",
+    "MongoDB"
   ]
   }, {
   "name": "Web Libraries & Frameworks",
   "level": "Master",
   "keywords": [
     "Node JS",
-    "Meteor JS",
     "Express",
-    "Next",
-    "Codeigniter",
-    "GraphQL",
-    "Apollo",
-    "Firebase",
-    "Webpack",
     "React",
-    "Polymer",
-    "Vue",
-    "Angular",
-    "JQuery",
+    "Flask",
+    "Next JS",
+    "GraphQL",
+    "Workflow Tools -> Airflow, Bonita",
+    "Task runners -> grunt, gulp",
+    "Meteor JS",
+    "NestJS",
+    "Codeigniter",
     "Electron",
+    "Apollo",
+    "Webpack",
+    "Polymer",
     "Nightmare",
-    "PhantomJS",
-    "Mocha",
-    "Task runners, grunt, gulp",
-    "Charting Libraries, D3, Highcharts, Echarts etc"
+    "Charting Libraries, D3, Highcharts, Echarts etc",
+    "Test Suites -> Jest, Mocha",
+    "Testing Libraries -> Enzyme, Supertest, Chai",
+    "Istanbul"
   ]
   }, {
   "name": "DevOps",
@@ -173,16 +192,15 @@
   }, {
   "name": "Version Control",
   "level": "Master",
-  "keywords": ["Git", "Subversion"]
+  "keywords": ["Git"]
   },
   {
     "name": "Development Setup",
     "level": "Master",
     "keywords": [
-      "Macbook Pro 2015 with Sierra",
-      "Editor - Vim",
-      "Terminal - Iterm2 with tmux",
-      "Shell - zsh"
+      "Macbook Pro 2015",
+      "Editor - NeoVim",
+      "Terminal Setup - ZSH with tmux"
     ]
   }
   ],
